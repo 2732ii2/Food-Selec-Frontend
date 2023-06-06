@@ -2,9 +2,17 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Live Link of Project : https://profound-pegasus-22e4e7.netlify.app/
+
+## Screen Shot of Web App Design 
+<img width="1440" alt="Screenshot 2023-06-06 at 11 58 12 PM" src="https://github.com/2732ii2/Food-Selec-Frontend/assets/83974207/4b07e9ba-292c-468b-bcae-4526af6c58cb">
+
+<img width="100%" alt="Screenshot 2023-06-06 at 11 58 33 PM" src="https://github.com/2732ii2/Food-Selec-Frontend/assets/83974207/0d6868cd-915b-48ac-93f8-eae7f6b35580">
+
 ## Available Scripts
 
 In the project directory, you can run:
+
 
 ### `npm start`
 
