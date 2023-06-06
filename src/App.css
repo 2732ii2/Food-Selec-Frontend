@@ -126,6 +126,8 @@
   color:white;
   font-size: 32px;
   margin-top: 7%;
+  max-height: 10.5%;
+  max-width: 90%;
   margin-bottom: 5%;
 }
 #li_{
@@ -136,6 +138,9 @@
 }
 #li_p_{
   font-size: 20px;
+  max-width: 90%;
+  max-height: 6.5%;
+  overflow: hidden;
   color:rgb(166, 255, 0);
   margin-top: 5%;
   margin-bottom: 5%;
@@ -227,7 +232,10 @@
 }
 #innserslides,#innserslides0{
   width: 95%;
+  max-width: 95%;
   height: 23%;
+  max-height: 23%;
+  overflow: hidden;
   max-height: 23%;
   text-align: center;
   border-radius: 50px;
